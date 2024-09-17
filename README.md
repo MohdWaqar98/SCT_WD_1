@@ -17,6 +17,6 @@ This project is a responsive landing page built as part of **SkillCraft Technolo
 
 ## Screenshots
 ### Desktop View
-![Desktop Screenshot](![image](https://github.com/user-attachments/assets/8be1e2d3-0c0e-4c89-8d83-ab02ad1bfaec))
+![image](https://github.com/user-attachments/assets/8be1e2d3-0c0e-4c89-8d83-ab02ad1bfaec)
 
 
